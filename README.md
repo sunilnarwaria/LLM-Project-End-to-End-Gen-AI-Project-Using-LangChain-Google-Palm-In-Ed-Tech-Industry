@@ -10,7 +10,7 @@ This is an end to end LLM project based on Google Palm and Langchain. We are bui
   - We will build an LLM based question and answer system that can reduce the workload of their human staff.
   - Students should be able to use this system to ask questions directly and get answers within seconds
 
-# Learnings,
+# Learnings
   - Langchain + Google Palm: LLM based Q&A
   - Streamlit: UI
   - Huggingface instructor embeddings: Text embeddings
