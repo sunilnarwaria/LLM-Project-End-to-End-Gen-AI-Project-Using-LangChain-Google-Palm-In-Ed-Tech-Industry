@@ -1,6 +1,6 @@
 import streamlit as st
 from langchain_helper import get_qa_chain, create_vector_db
-
+#using vector DB
 st.title("Sunny's Q&A 🌱")
 btn = st.button("Create Knowledgebase")
 if btn:
